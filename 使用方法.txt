@@ -1,0 +1,1 @@
+1.同时运行client.exe 和 server.exe 以及redis-server.exe
